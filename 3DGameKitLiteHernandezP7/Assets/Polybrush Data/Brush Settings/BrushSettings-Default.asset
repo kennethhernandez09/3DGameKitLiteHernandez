@@ -15,8 +15,8 @@ MonoBehaviour:
   brushRadiusMin: 0.001
   brushRadiusMax: 5
   _radius: 1
-  _falloff: 0.5
-  _strength: 1
+  _falloff: 1
+  _strength: 0.5
   _curve:
     serializedVersion: 2
     m_Curve:
